@@ -1,6 +1,6 @@
 # Kurze Biografie
 
-Ich bin 1900 geboren. Ich habe .... gestudiert. Ich bin Informatiker von Beruf. Ich habe ..
+
 
 # Meine Beleteste Rezept
 
